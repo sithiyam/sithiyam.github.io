@@ -89,7 +89,7 @@
       "url": "img\/sl.svg"
     },
     {
-      "hash": "sha256-2FP4ZZLs4HwAxqWtcf7eDMhIOQUXVIbdyVOHOz7uP20=",
+      "hash": "sha256-rDoljNeO3tOKqXbdlQsoxLCRz3NQmdbOaD20PMp8I\/w=",
       "url": "index.html"
     },
     {
