@@ -1,12 +1,11 @@
 {
+  "Version": "001",
   "Maps": {
     "sl-rivers": {
       "ID": "sl-rivers",
       "Name": "ශ්‍රි ලංකාව ගංඟා සමඟ",
       "Land": "sl",
       "Rivers": "sl-rivers-only",
-      "X": 0,
-      "Y": 0,
       "W": 1200,
       "H": 1600
     },
@@ -15,20 +14,12 @@
       "Name": "ශ්‍රි ලංකාව",
       "Land": "sl",
       "Rivers": "",
-      "X": 0,
-      "Y": 0,
       "W": 1200,
       "H": 1600
     }
   },
-  "MapLayers": {
-    "sl": {
-      "ID": "sl",
-      "URL": "sl.layer.json"
-    },
-    "sl-rivers-only": {
-      "ID": "sl-rivers-only",
-      "URL": "sl-rivers-only.layer.json"
-    }
-  }
+  "MapLayers": [
+    "sl",
+    "sl-rivers-only"
+  ]
 }

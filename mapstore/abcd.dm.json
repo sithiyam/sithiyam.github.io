@@ -1,0 +1,41 @@
+{
+  "ID": "abcd",
+  "Name": "ABCD",
+  "Description": "DEF",
+  "Tag": [
+    "SAMPLE"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "abc": {
+      "ID": "abc",
+      "Name": "ABC",
+      "X": "671",
+      "Y": "1030",
+      "R": "50"
+    },
+    "def": {
+      "ID": "def",
+      "Name": "DEF",
+      "X": "1098",
+      "Y": "1058",
+      "R": "50"
+    },
+    "efg": {
+      "ID": "efg",
+      "Name": "EFG",
+      "X": "231",
+      "Y": "696",
+      "R": "50"
+    },
+    "abc0": {
+      "ID": "abc0",
+      "Name": "ABC",
+      "X": "796",
+      "Y": "534",
+      "R": "90"
+    }
+  },
+  "Rivers": {},
+  "LastMarkerID": 4
+}
