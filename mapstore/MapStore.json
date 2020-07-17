@@ -4,7 +4,7 @@
     "sl-rivers": {
       "ID": "sl-rivers",
       "Name": "ශ්‍රි ලංකාව ගංඟා සමඟ",
-      "Land": "sl",
+      "Land": "sl-only",
       "Rivers": "sl-rivers-only",
       "W": 1200,
       "H": 1600
@@ -12,14 +12,14 @@
     "sl-empty": {
       "ID": "sl-empty",
       "Name": "ශ්‍රි ලංකාව",
-      "Land": "sl",
+      "Land": "sl-only",
       "Rivers": "",
       "W": 1200,
       "H": 1600
     }
   },
   "MapLayers": [
-    "sl",
+    "sl-only",
     "sl-rivers-only"
   ]
 }

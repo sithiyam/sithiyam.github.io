@@ -1,21 +1,3 @@
 {
-  "Definitions": {
-    "basicp": {
-      "ID": "basicp",
-      "MapID": "sl-rivers",
-      "Name": "Basic Places",
-      "Tag": [
-        "OL",
-        "BASIC"
-      ]
-    },
-    "abcd": {
-      "ID": "abcd",
-      "MapID": "sl-rivers",
-      "Name": "ABCD",
-      "Tag": [
-        "SAMPLE"
-      ]
-    }
-  }
+  "Definitions": {}
 }

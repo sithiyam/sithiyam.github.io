@@ -261,7 +261,9 @@ body::-webkit-scrollbar-thumb {
     -ms-user-select: none;
     user-select: none;
 }
-.Bottom-menu-togle {
+
+.Bottom-menu {
+    padding: 10px;
     background-color: white;
     border-style: solid;
     border-left-width: 2px;
@@ -269,20 +271,6 @@ body::-webkit-scrollbar-thumb {
     border-top-width: 2px;
     border-bottom-width: 0px;
     border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-top-color: #CFCFCF;
-    border-left-color: #CFCFCF;
-    border-right-color: #CFCFCF;
-}
-
-.Bottom-menu {
-    padding:10px;
-    background-color: white;
-    border-style: solid;
-    border-left-width: 2px;
-    border-right-width: 2px;
-    border-top-width: 2px;
-    border-bottom-width:0px;
     border-top-right-radius: 25px;
     border-top-color: #CFCFCF;
     border-left-color: #CFCFCF;
