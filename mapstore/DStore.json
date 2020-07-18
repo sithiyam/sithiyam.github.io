@@ -1,3 +1,23 @@
 {
-  "Definitions": {}
+  "Update": 1002,
+  "Definitions": {
+    "sample": {
+      "ID": "sample",
+      "MapID": "sl-rivers",
+      "Name": "Sample Map",
+      "Tag": [
+        "SAMPLE",
+        "SL"
+      ]
+    },
+    "77ab393e": {
+      "ID": "77ab393e",
+      "MapID": "sl-rivers",
+      "Name": "ශ්‍රී ලංකාවේ ප්‍රධාන ස්ථාන",
+      "Tag": [
+        "SL",
+        "SAMPLE"
+      ]
+    }
+  }
 }
