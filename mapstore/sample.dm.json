@@ -1,0 +1,35 @@
+{
+  "ID": "sample",
+  "Name": "Sample Map",
+  "Description": "Sample app for dev",
+  "Tag": [
+    "SAMPLE",
+    "SL"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "colombo": {
+      "ID": "colombo",
+      "Name": "Colombo",
+      "X": "173",
+      "Y": "1156",
+      "R": "50"
+    },
+    "kandy": {
+      "ID": "kandy",
+      "Name": "Kandy",
+      "X": "448",
+      "Y": "1011",
+      "R": "50"
+    }
+  },
+  "Rivers": {
+    "6": {
+      "ID": "6",
+      "Name": "Mahaveli",
+      "Rot": "270",
+      "X": "568",
+      "Y": "987"
+    }
+  }
+}
