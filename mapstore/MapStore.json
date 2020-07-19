@@ -6,7 +6,7 @@
       "Name": "ශ්‍රි ලංකාව ගංඟා සමඟ",
       "Land": "sl-only",
       "Rivers": "sl-rivers-only",
-      "W": 1200,
+      "W": 1000,
       "H": 1600
     },
     "sl-empty": {
@@ -14,12 +14,30 @@
       "Name": "ශ්‍රි ලංකාව",
       "Land": "sl-only",
       "Rivers": "",
-      "W": 1200,
+      "W": 1000,
       "H": 1600
+    },
+    "world": {
+      "ID": "world",
+      "Name": "ලෝකය",
+      "Land": "sl-only",
+      "Rivers": "world",
+      "W": 2048,
+      "H": 2127
+    },
+    "europe": {
+      "ID": "europe",
+      "Name": "යුරෝපය",
+      "Land": "sl-only",
+      "Rivers": "europe",
+      "W": 1837,
+      "H": 1655
     }
   },
   "MapLayers": [
     "sl-only",
-    "sl-rivers-only"
+    "sl-rivers-only",
+    "world",
+    "europe"
   ]
 }

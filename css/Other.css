@@ -1,12 +1,12 @@
 ﻿.AdContent {
     height: 200px;
-    background-color: white;
+/*    background-color: white;*/
 }
 
 
 @media only screen and (max-width: 500px) {
-    .AdContent{
-        height:75px;
+    .AdContent {
+        height: 75px;
     }
 }
 
@@ -44,19 +44,21 @@
         display: none;
     }
 
-.toIWapper {
-    padding: 0px;
+.mapItem {
     width: 100%;
     transition: 0.5s;
     display: block;
     background-color: white;
+    border-radius: 5px;
 }
 
-.insOrTeacherImg {
+    .mapItem:hover {
+        cursor: pointer;
+    }
+
+
+.mapItem-img {
     background-color: white;
-    /* padding: 28px; */
-    /* margin: -10px; */
-    /* border-radius: 5px 5px 0px 0px; */
     height: 145px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -66,78 +68,95 @@
     border-radius: 3px;
 }
 
-.name {
+.mapItem-name {
     text-align: left;
     font-size: 18px;
     font-weight: bold;
-    margin-left: -10px;
+    margin-left: 0px;
     margin-right: -10px;
     padding-top: 6px;
     color: #696969;
-    padding-bottom: 10px;
-    margin-left: 235px;
+    padding-bottom: 6px;
 }
-
-.stream {
+.mapItem-details-container {
     text-align: left;
     margin-top: 0px;
-    margin-left: -10px;
-    margin-right: -10px;
+    margin-left: 0px;
+    border-radius:5px;
     padding: 6px;
+    padding-left:15px;
     color: #e91e63;
-    margin-left: 230px;
+    margin-left: 215px;
+    min-height:145px;
 }
 
-.more-details {
+.mapItem-more-details {
     text-align: left;
     padding: 6px;
-    padding-left: 0;
-    margin-top: 5px;
+    padding-left: 6px;
+    padding-top:0px;
     margin-bottom: 0;
     padding-bottom: 0;
 }
 
-    .more-details a {
-        color: #ffffff;
-        background-color: #40404094;
-        padding: 4px;
-        border-radius: 3px;
-        padding-left: 6px;
-        padding-right: 9px;
-        display: inline-block;
-        margin-bottom: 4px;
-        font-size: 12px;
-    }
-
-.insOrTeacherImg:hover {
-    cursor: pointer;
-}
-
-
 @media only screen and (max-width: 500px) {
 
-    .name {
+    .mapItem-name {
         font-size: 12px;
         padding-bottom: 5px !important;
-        margin-left: 150px;
     }
 
-    .stream {
-        font-size: 10px;
-        margin-left: 144px;
-    }
-
-
-    .insOrTeacherImg {
+    .mapItem-img {
         width: 135px;
         height: 98px;
         border-radius: 5px 5px 0px 0px;
     }
+    .mapItem-details-container {
+        font-size: 10px;
+        margin-left: 135px;
+        min-height: 98px;
+        padding-left:6px;
+    }
 
-    .more-details {
+    .mapItem-more-details {
         border-radius: 0px 0px 5px 5px;
     }
 }
-.toIWapper:hover {
-    cursor: pointer;
+
+
+.page_404 {
+    padding: 40px 0;
+    background: #fff;
+    font-family: 'Arvo', serif;
+}
+
+    .page_404 img {
+        width: 100%;
+    }
+
+.four_zero_four_bg {
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+}
+
+
+    .four_zero_four_bg h1 {
+        font-size: 80px;
+    }
+
+    .four_zero_four_bg h3 {
+        font-size: 80px;
+    }
+
+.link_404 {
+    color: #fff !important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.contant_box_404 {
+    margin-top: -50px;
 }

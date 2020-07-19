@@ -5,8 +5,32 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+@font-face {
+    font-family: 'Arvo BI';
+    src: url('/fonts/Arvo-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Arvo I';
+    src: url('/fonts/Arvo-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Arvo B';
+    src: url('/fonts/Arvo-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Arvo R';
+    src: url('/fonts/Arvo-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'IsI';
+    src: url('/fonts/IsI Agni.ttf');
+}
 html {
-    font-family: sans-serif;
+    font-family: 'Arvo I';
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -126,7 +150,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace, monospace;
+    font-family: 'Arvo B';
     font-size: 1em;
 }
 
@@ -329,10 +353,10 @@ html {
 }
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Arvo I';
     font-size: 14px;
     line-height: 1.42857;
-    color: #333333;
+    /*color: #333333;*/
     background-color: #fff;
 }
 
@@ -401,7 +425,7 @@ hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
-    border-top: 1px solid #eeeeee;
+    border-top: 1px solid #000;
 }
 
 .sr-only {
@@ -829,7 +853,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-family: 'Arvo I';
 }
 
 code {
@@ -4784,7 +4808,7 @@ a.label:hover, a.label:focus {
     vertical-align: middle;
     white-space: nowrap;
     text-align: center;
-    background-color: #777777;
+    background-color: #000;
     border-radius: 10px;
 }
 
@@ -6043,7 +6067,7 @@ button.close {
     position: absolute;
     z-index: 1070;
     display: block;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Arvo I';
     font-style: normal;
     font-weight: normal;
     letter-spacing: normal;
@@ -6177,7 +6201,7 @@ button.close {
     display: none;
     max-width: 276px;
     padding: 1px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Arvo I';
     font-style: normal;
     font-weight: normal;
     letter-spacing: normal;

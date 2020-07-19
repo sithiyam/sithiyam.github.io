@@ -1,8 +1,4 @@
-﻿html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-app {
+﻿app {
     position: relative;
     display: flex;
     flex-direction: column;

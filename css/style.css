@@ -1,9 +1,26 @@
 @font-face {
-    font-family: 'icomoon';
-    src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-    src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Arvo BI';
+    src: url('/fonts/Arvo-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'Arvo I';
+    src: url('/fonts/Arvo-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Arvo B';
+    src: url('/fonts/Arvo-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Arvo R';
+    src: url('/fonts/Arvo-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'IsI';
+    src: url('/fonts/IsI Agni.ttf');
 }
 /* =======================================================
 *
@@ -11,11 +28,11 @@
 *
 * ======================================================= */
 body {
-    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-family: 'Arvo I';
     font-weight: 400;
     font-size: 15px;
     line-height: 1.7;
-    color: #828282;
+    /*color: #828282;*/
     background: #fff;
 }
 
@@ -67,7 +84,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
     color: #000;
-    font-family: "Roboto Slab", serif;
+    font-family: 'Arvo I';
     font-weight: 400;
     margin: 0 0 20px 0;
 }
@@ -162,7 +179,7 @@ h1, h2, h3, h4, h5, h6, figure {
     text-transform: uppercase;
     font-weight: bold;
     font-weight: 700;
-    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-family: 'Arvo I';
 }
 
     .fh5co-nav #fh5co-logo a {
@@ -415,7 +432,7 @@ h1, h2, h3, h4, h5, h6, figure {
     font-size: 20px;
     line-height: 1.5;
     margin-bottom: 30px;
-    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-family: 'Arvo I';
 }
 
     #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 a {
@@ -570,7 +587,7 @@ h1, h2, h3, h4, h5, h6, figure {
         font-size: 44px;
         display: block;
         color: white;
-        font-family: "Roboto Slab", serif;
+        font-family: 'Arvo BI';
         width: 100%;
         font-weight: 400;
         margin-bottom: .1em;
@@ -581,7 +598,7 @@ h1, h2, h3, h4, h5, h6, figure {
         font-size: 16px;
         margin-bottom: 2em;
         display: block;
-        font-family: "Roboto Slab", serif;
+        font-family: 'Arvo BI';
     }
 
     .fh5co-counters .icon i {
@@ -630,7 +647,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .course .desc {
     padding: 1.7em;
-    background: #fafafa;
+    /*    background: #fafafa;*/
 }
 
     .course .desc h3 {
@@ -673,6 +690,26 @@ h1, h2, h3, h4, h5, h6, figure {
     -moz-box-shadow: inset -70px 0px 77px 11px rgba(0, 0, 0, 0.74);
     box-shadow: inset -70px 0px 77px 11px rgba(0, 0, 0, 0.74);
 }
+
+.btn-box {
+    border: 2px solid rgba(0, 0, 0, 0.8) !important;
+    background: transparent;
+    color: rgba(0, 0, 0, 0.8) !important;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 11px 15px !important;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+}
+
+    .btn-box:hover {
+        background: rgb(0, 0, 0) !important;
+        color: white !important;
+    }
 
 .fh5co-social-icons {
     margin: 0;
@@ -998,8 +1035,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-blog .blog-img-holder {
-    -moz-border-radius-topleft:5px;
-    -moz-border-radius-topright:5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
     display: block;
     background-size: cover;
     background-position: top center;
@@ -1237,7 +1274,7 @@ h1, h2, h3, h4, h5, h6, figure {
         font-size: 14px;
         text-transform: uppercase;
         margin-bottom: 2.5em;
-        font-family: "Source Sans Pro", Arial, sans-serif;
+        font-family: 'Arvo I';
         font-weight: 700;
         letter-spacing: 2px;
     }
@@ -1336,7 +1373,7 @@ h1, h2, h3, h4, h5, h6, figure {
     font-size: 12px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-family: 'Arvo I';
     color: #fff;
 }
 
@@ -1622,7 +1659,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn {
     margin-right: 4px;
     margin-bottom: 4px;
-    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-family: 'Arvo I';
     font-size: 16px;
     font-weight: 400;
     -webkit-border-radius: 30px;
