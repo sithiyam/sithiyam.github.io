@@ -20,16 +20,16 @@
     "world": {
       "ID": "world",
       "Name": "ලෝකය",
-      "Land": "sl-only",
-      "Rivers": "world",
+      "Land": "world",
+      "Rivers": "",
       "W": 2048,
       "H": 2127
     },
     "europe": {
       "ID": "europe",
       "Name": "යුරෝපය",
-      "Land": "sl-only",
-      "Rivers": "europe",
+      "Land": "europe",
+      "Rivers": "",
       "W": 1837,
       "H": 1655
     }
