@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'Arvo BI';
-    src: local('Arvo BI'), url('/fonts/Arvo-BoldItalic.ttf') format('ttf');
+    src: local('Arvo BI'), url('/fonts/Arvo-BoldItalic.ttf');
 }
 
 @font-face {
     font-family: 'Arvo I';
-    src: local('Arvo I'), url('/fonts/Arvo-Italic.ttf') format('ttf');
+    src: local('Arvo I'), url('/fonts/Arvo-Italic.ttf');
 }
 
 @font-face {
     font-family: 'Arvo B';
-    src: local('Arvo B'), url('/fonts/Arvo-Bold.ttf') format('ttf');
+    src: local('Arvo B'), url('/fonts/Arvo-Bold.ttf');
 }
 
 @font-face {
     font-family: 'Arvo R';
-    src: local('Arvo R'), url('/fonts/Arvo-Regular.ttf') format('ttf');
+    src: local('Arvo R'), url('/fonts/Arvo-Regular.ttf');
 }
 /* =======================================================
 *
