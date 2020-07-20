@@ -7,27 +7,22 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 @font-face {
     font-family: 'Arvo BI';
-    src: url('/fonts/Arvo-BoldItalic.ttf');
+    src: local('Arvo BI'), url('/fonts/Arvo-BoldItalic.ttf') format('ttf');
 }
 
 @font-face {
     font-family: 'Arvo I';
-    src: url('/fonts/Arvo-Italic.ttf');
+    src: local('Arvo I'), url('/fonts/Arvo-Italic.ttf') format('ttf');
 }
 
 @font-face {
     font-family: 'Arvo B';
-    src: url('/fonts/Arvo-Bold.ttf');
+    src: local('Arvo B'), url('/fonts/Arvo-Bold.ttf') format('ttf');
 }
 
 @font-face {
     font-family: 'Arvo R';
-    src: url('/fonts/Arvo-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'IsI';
-    src: url('/fonts/IsI Agni.ttf');
+    src: local('Arvo R'), url('/fonts/Arvo-Regular.ttf') format('ttf');
 }
 html {
     font-family: 'Arvo I';
