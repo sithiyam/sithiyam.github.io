@@ -636,7 +636,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 @media screen and (max-width: 768px) {
     .course .course-img {
-        height: 320px;
+        height: 250px;
     }
 }
 
@@ -679,6 +679,12 @@ h1, h2, h3, h4, h5, h6, figure {
             background: rgba(0, 0, 0, 0.8) !important;
             color: white !important;
         }
+@media screen and (max-width: 768px) {
+    .course .desc {
+        padding: 1.7em 1em;
+        /*    background: #fafafa;*/
+    }
+}
 
 .course:hover .course-img {
     -webkit-box-shadow: inset -70px 0px 77px 11px rgba(0, 0, 0, 0.74);
