@@ -141,10 +141,6 @@
       "url": "img\/sl-empty.png"
     },
     {
-      "hash": "sha256-a7WZMCTFy5Cq1BEqptw52Lia14kMwHdNugkkPbBkT7M=",
-      "url": "img\/SL-rivers.png"
-    },
-    {
       "hash": "sha256-qfw8oxpi7OnXnJ+Kii2dDfpTW4jsEM6wreLy60F2FUk=",
       "url": "img\/world.png"
     },
