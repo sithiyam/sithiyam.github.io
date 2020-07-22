@@ -124,6 +124,19 @@
 }
 
 
+.testendimg {
+    width: 70vh;
+    height: 70vh;
+}
+
+@media (max-width: 600px) {
+    .testendimg {
+        width: 100vw;
+        height: 100vw;
+    }
+}
+
+
 .page_404 {
     padding: 40px 0;
     background: #fff;
@@ -159,4 +172,16 @@
 
 .contant_box_404 {
     margin-top: -50px;
+}
+
+@-webkit-keyframes bummer {
+    100% {
+        -webkit-transform: scale(1,1);
+    }
+}
+
+@keyframes bummer {
+    100% {
+        transform: scale(1,1);
+    }
 }
