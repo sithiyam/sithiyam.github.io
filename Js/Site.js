@@ -128,3 +128,11 @@ window.animatethis = function (targetElement, speed) {
             }
         });
 };
+
+window.PlayTrack = async (id) => {
+    var p = document.getElementById(id);
+    if (p != null) {
+        p.play();
+    }
+    console.log("play sound");
+}
