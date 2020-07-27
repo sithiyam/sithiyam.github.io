@@ -65,7 +65,7 @@
     background-position: center;
     width: 215px;
     float: left;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 
 .mapItem-name {
@@ -99,6 +99,15 @@
     padding-bottom: 0;
 }
 
+.mons-img {
+    height: 145px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 215px;
+    border-radius: 3px;
+}
+
 @media only screen and (max-width: 500px) {
 
     .mapItem-name {
@@ -107,19 +116,23 @@
     }
 
     .mapItem-img {
-        width: 135px;
+        width: 110px;
         height: 98px;
         border-radius: 5px 5px 0px 0px;
     }
     .mapItem-details-container {
         font-size: 10px;
-        margin-left: 135px;
+        margin-left: 110px;
         min-height: 98px;
         padding-left:6px;
     }
 
     .mapItem-more-details {
         border-radius: 0px 0px 5px 5px;
+    }
+    .mons-img {
+        width: 140px;
+        height: 98px;
     }
 }
 
@@ -184,4 +197,12 @@
     100% {
         transform: scale(1,1);
     }
+}
+
+.float {
+    position: fixed;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    border-width: 2px;
 }

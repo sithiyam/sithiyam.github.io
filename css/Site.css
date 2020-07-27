@@ -1,8 +1,8 @@
 ﻿body::-webkit-scrollbar {
-    width: 0.25rem;
+    width: 0rem;
 }
 div::-webkit-scrollbar {
-    width: 0.25rem;
+    width: 0rem;
 }
 /*body::-webkit-scrollbar-track {
     background: #1e1e24;
@@ -323,7 +323,7 @@ body::-webkit-scrollbar-thumb {
     height: 100%;
 }
 
-.float {
+/*.float {
     position: fixed;
     width: 60px;
     height: 60px;
@@ -349,7 +349,7 @@ a.float + div.label-container {
 a.float:hover + div.label-container {
     visibility: visible;
     opacity: 1;
-}
+}*/
 
 .buttonInside {
     position: relative;
