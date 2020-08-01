@@ -136,3 +136,50 @@ window.PlayTrack = async (id) => {
     }
     console.log("play sound");
 }
+
+
+window.ShareURL = async (head, link) => {
+    const shareDialog = document.querySelector('.share-dialog');
+    if (navigator.share) {
+        navigator.share({
+            title: head,
+            url: link
+        }).then(() => {
+            console.log('Thanks for sharing!');
+        })
+            .catch(console.error);
+    } else {
+        if (shareDialog != null) {
+            shareDialog.onclick = () => { shareDialog.classList.remove('is-open'); };
+            shareDialog.classList.add('is-open');
+        }
+    }
+}
+
+function Copy(id) {
+    var copyText = document.getElementById(id);
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+}
+//const shareButton = document.querySelector('.share-button');
+//const shareDialog = document.querySelector('.share-dialog');
+//const closeButton = document.querySelector('.close-button');
+
+//shareButton.addEventListener('click', event => {
+//    if (navigator.share) {
+//        navigator.share({
+//            title: 'WebShare API Demo',
+//            url: 'https://codepen.io/ayoisaiah/pen/YbNazJ'
+//        }).then(() => {
+//            console.log('Thanks for sharing!');
+//        })
+//            .catch(console.error);
+//    } else {
+//        shareDialog.classList.add('is-open');
+//    }
+//});
+
+//closeButton.addEventListener('click', event => {
+//    shareDialog.classList.remove('is-open');
+//});

@@ -206,3 +206,90 @@
     text-align: center;
     border-width: 2px;
 }
+
+
+.share-button, .copy-link {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.share-button, .share-dialog {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.share-dialog {
+    display: none;
+    width: 95%;
+    max-width: 500px;
+    box-shadow: 0 8px 16px rgba(0,0,0,.15);
+    z-index: -1;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+    .share-dialog.is-open {
+        display: block;
+        z-index: 2;
+    }
+
+.center-dialog {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+
+.menu-bg {
+    background: linear-gradient(117deg, #f7ecb5, #8a6b3d, #ca8f37);
+    background-size: 600% 600%;
+    -webkit-animation: menubg 9s ease infinite;
+    -moz-animation: menubg 9s ease infinite;
+    animation: menubg 9s ease infinite;
+}
+
+@-webkit-keyframes menubg {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 51%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@-moz-keyframes menubg {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 51%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@keyframes menubg {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 51%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
