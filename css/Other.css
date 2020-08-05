@@ -75,7 +75,7 @@
     margin-left: 0px;
     margin-right: -10px;
     padding-top: 6px;
-    color: #696969;
+    color: #000;
     padding-bottom: 6px;
 }
 .mapItem-details-container {
@@ -287,6 +287,155 @@
 
     50% {
         background-position: 100% 51%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+.bg-success-ani {
+    background: linear-gradient(117deg, #c1e2b3, #3c763d, #014102, #67ff00);
+    background-size: 800% 800%;
+    -webkit-animation: bg-success-animation 15s ease infinite;
+    -moz-animation: bg-success-animation 15s ease infinite;
+    animation: bg-success-animation 15s ease infinite;
+}
+
+@-webkit-keyframes bg-success-animation {
+    0% {
+        background-position: 0% 53%
+    }
+
+    50% {
+        background-position: 100% 48%
+    }
+
+    100% {
+        background-position: 0% 53%
+    }
+}
+
+@-moz-keyframes bg-success-animation {
+    0% {
+        background-position: 0% 53%
+    }
+
+    50% {
+        background-position: 100% 48%
+    }
+
+    100% {
+        background-position: 0% 53%
+    }
+}
+
+@keyframes bg-success-animation {
+    0% {
+        background-position: 0% 53%
+    }
+
+    50% {
+        background-position: 100% 48%
+    }
+
+    100% {
+        background-position: 0% 53%
+    }
+}
+
+.bg-warning-ani {
+    background: linear-gradient(117deg, #f7ecb5, #8a6d3b, #704a07, #d58a04);
+    background-size: 800% 800%;
+    -webkit-animation: bg-warning-animation 15s ease infinite;
+    -moz-animation: bg-warning-animation 15s ease infinite;
+    animation: bg-warning-animation 15s ease infinite;
+}
+
+@-webkit-keyframes bg-warning-animation {
+    0% {
+        background-position: 0% 53%
+    }
+
+    50% {
+        background-position: 100% 48%
+    }
+
+    100% {
+        background-position: 0% 53%
+    }
+}
+
+@-moz-keyframes bg-warning-animation {
+    0% {
+        background-position: 0% 53%
+    }
+
+    50% {
+        background-position: 100% 48%
+    }
+
+    100% {
+        background-position: 0% 53%
+    }
+}
+
+@keyframes bg-warning-animation {
+    0% {
+        background-position: 0% 53%
+    }
+
+    50% {
+        background-position: 100% 48%
+    }
+
+    100% {
+        background-position: 0% 53%
+    }
+}
+
+.bg-danger-ani {
+    background: linear-gradient(117deg, #e4b9b9, #a94442, #650c0a, #ee0d08);
+    background-size: 800% 800%;
+    -webkit-animation: bg-danger-animation 15s ease infinite;
+    -moz-animation: bg-danger-animation 15s ease infinite;
+    animation: bg-danger-animation 15s ease infinite;
+}
+
+@-webkit-keyframes bg-danger-animation {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@-moz-keyframes bg-danger-animation {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@keyframes bg-danger-animation {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
     }
 
     100% {
