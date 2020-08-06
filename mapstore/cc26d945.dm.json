@@ -7,114 +7,114 @@
   ],
   "MapID": "europe",
   "Markers": {
-    "a915d29": {
-      "ID": "a915d29",
+    "x8hhk74uol9OKOHnh0yI/UWiZLI=#": {
+      "ID": "x8hhk74uol9OKOHnh0yI/UWiZLI=#",
       "Name": "උතුරු මුහුද ",
       "X": "569",
       "Y": "578",
       "R": "50"
     },
-    "a915d290": {
-      "ID": "a915d290",
-      "Name": "උතුරු මුහුද ",
+    "#x8hhk74uol9OKOHnh0yI/UWiZLI=#0": {
+      "ID": "#x8hhk74uol9OKOHnh0yI/UWiZLI=#0",
+      "Name": "x8hhk74uol9OKOHnh0yI/UWiZLI=#",
       "X": "573",
       "Y": "666",
       "R": "50"
     },
-    "a915d291": {
-      "ID": "a915d291",
-      "Name": "උතුරු මුහුද ",
+    "#x8hhk74uol9OKOHnh0yI/UWiZLI=#1": {
+      "ID": "#x8hhk74uol9OKOHnh0yI/UWiZLI=#1",
+      "Name": "x8hhk74uol9OKOHnh0yI/UWiZLI=#",
       "X": "508",
       "Y": "551",
       "R": "50"
     },
-    "a915d292": {
-      "ID": "a915d292",
-      "Name": "උතුරු මුහුද ",
+    "#x8hhk74uol9OKOHnh0yI/UWiZLI=#2": {
+      "ID": "#x8hhk74uol9OKOHnh0yI/UWiZLI=#2",
+      "Name": "x8hhk74uol9OKOHnh0yI/UWiZLI=#",
       "X": "488",
       "Y": "651",
       "R": "50"
     },
-    "39ac148e": {
-      "ID": "39ac148e",
+    "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#": {
+      "ID": "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#",
       "Name": "බෝල්ටික් මුහුද ",
       "X": "917",
       "Y": "635",
       "R": "50"
     },
-    "39ac148e0": {
-      "ID": "39ac148e0",
-      "Name": "බෝල්ටික් මුහුද ",
+    "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#0": {
+      "ID": "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#0",
+      "Name": "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#",
       "X": "844",
       "Y": "662",
       "R": "50"
     },
-    "39ac148e1": {
-      "ID": "39ac148e1",
-      "Name": "බෝල්ටික් මුහුද ",
+    "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#1": {
+      "ID": "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#1",
+      "Name": "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#",
       "X": "952",
       "Y": "532",
       "R": "40"
     },
-    "3c2ec39d": {
-      "ID": "3c2ec39d",
+    "utxR4AcySBgseQrE9Ukpfm09UO4=#": {
+      "ID": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "Name": "මධ්‍යධරණී මුහුද ",
       "X": "477",
       "Y": "1279",
       "R": "70"
     },
-    "3c2ec39d0": {
-      "ID": "3c2ec39d0",
-      "Name": "මධ්‍යධරණී මුහුද ",
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#0": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#0",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "X": "320",
       "Y": "1306",
       "R": "70"
     },
-    "3c2ec39d1": {
-      "ID": "3c2ec39d1",
-      "Name": "මධ්‍යධරණී මුහුද ",
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#1": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#1",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "X": "714",
       "Y": "1497",
       "R": "70"
     },
-    "3c2ec39d2": {
-      "ID": "3c2ec39d2",
-      "Name": "මධ්‍යධරණී මුහුද ",
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#2": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#2",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "X": "879",
       "Y": "1574",
       "R": "100"
     },
-    "3c2ec39d3": {
-      "ID": "3c2ec39d3",
-      "Name": "මධ්‍යධරණී මුහුද ",
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#3": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#3",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "X": "1235",
       "Y": "1513",
       "R": "100"
     },
-    "3c2ec39d4": {
-      "ID": "3c2ec39d4",
-      "Name": "මධ්‍යධරණී මුහුද ",
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#4": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#4",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "X": "1032",
       "Y": "1497",
       "R": "100"
     },
-    "3c2ec39d5": {
-      "ID": "3c2ec39d5",
-      "Name": "මධ්‍යධරණී මුහුද ",
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#5": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#5",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
       "X": "645",
       "Y": "1337",
       "R": "70"
     },
-    "cac37257": {
-      "ID": "cac37257",
+    "xziUYXeYA7sUyeF1DnCwkYMYbvU=#": {
+      "ID": "xziUYXeYA7sUyeF1DnCwkYMYbvU=#",
       "Name": "කළු මුහුද ",
       "X": "1254",
       "Y": "1126",
       "R": "90"
     },
-    "cac372570": {
-      "ID": "cac372570",
-      "Name": "කළු මුහුද ",
+    "#xziUYXeYA7sUyeF1DnCwkYMYbvU=#0": {
+      "ID": "#xziUYXeYA7sUyeF1DnCwkYMYbvU=#0",
+      "Name": "xziUYXeYA7sUyeF1DnCwkYMYbvU=#",
       "X": "1457",
       "Y": "1107",
       "R": "90"
