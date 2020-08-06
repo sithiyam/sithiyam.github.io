@@ -74,7 +74,7 @@ a {
     }
 
 p {
-    margin-bottom: 20px;
+/*    margin-bottom: 20px;*/
 }
 
 h1, h2, h3, h4, h5, h6, figure {
@@ -1842,7 +1842,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control {
     box-shadow: none;
     background: transparent;
-    border: 2px solid rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(0, 0, 0, 0.5);
     height: 54px;
     font-size: 14px;
     font-weight: 400;

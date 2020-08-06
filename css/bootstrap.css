@@ -2244,7 +2244,7 @@ output {
     padding: 10px 20px;
     font-size: 14px;
     line-height: 1.42857;
-    color: #555555;
+    color: #000;
     background-color: #fff;
     background-image: none;
     border: 1px solid #ccc;
@@ -5882,7 +5882,7 @@ button.list-group-item-danger {
     line-height: 1;
     color: #000;
     text-shadow: 0 1px 0 #fff;
-    opacity: 0.2;
+    /*opacity: 0.2;*/
     filter: alpha(opacity=20);
 }
 
