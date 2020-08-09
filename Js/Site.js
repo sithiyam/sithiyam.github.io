@@ -162,6 +162,16 @@ function Copy(id) {
     copyText.setSelectionRange(0, 99999)
     document.execCommand("copy");
 }
+
+window.GoForward = () => {
+    window.history.forward();
+}
+
+window.GoBack = () => {
+    window.history.back();
+}
+
+
 //const shareButton = document.querySelector('.share-button');
 //const shareDialog = document.querySelector('.share-dialog');
 //const closeButton = document.querySelector('.close-button');
