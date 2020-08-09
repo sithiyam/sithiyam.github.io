@@ -7,18 +7,18 @@
   ],
   "MapID": "europe",
   "Markers": {
-    "t6ikLAJjvZNAfjGMxq4/zTSg4aM=": {
-      "ID": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=",
+    "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#": {
+      "ID": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#",
       "Name": "පෘතුගාලය ",
-      "X": "87",
-      "Y": "1114",
+      "X": "79",
+      "Y": "1135",
       "R": "30"
     },
-    "3kGHgDLRnOItztCzX6tPuImPX8g=": {
-      "ID": "3kGHgDLRnOItztCzX6tPuImPX8g=",
+    "3kGHgDLRnOItztCzX6tPuImPX8g=#": {
+      "ID": "3kGHgDLRnOItztCzX6tPuImPX8g=#",
       "Name": "ස්පාඤ්ඤ ",
       "X": "251",
-      "Y": "1172",
+      "Y": "1119",
       "R": "80"
     },
     "5uLVfufITaCuqbVMk9mIpNK8QAM=": {
@@ -77,12 +77,12 @@
       "Y": "740",
       "R": "40"
     },
-    "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=": {
-      "ID": "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=",
+    "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#": {
+      "ID": "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#",
       "Name": "තුර්කිය ",
-      "X": "1441",
-      "Y": "1259",
-      "R": "60"
+      "X": "1453",
+      "Y": "1278",
+      "R": "110"
     },
     "jz1913WXpTB2lVQpaZR0hdha77w=": {
       "ID": "jz1913WXpTB2lVQpaZR0hdha77w=",
@@ -122,9 +122,9 @@
     "rBYCufwRWeJKSGGGpX\u002BpKAePHdI=": {
       "ID": "rBYCufwRWeJKSGGGpX\u002BpKAePHdI=",
       "Name": "රුමේනියාව ",
-      "X": "1089",
-      "Y": "1013",
-      "R": "40"
+      "X": "1102",
+      "Y": "1039",
+      "R": "80"
     },
     "BbwBRjx//VKr38VigRl21dmAisg=": {
       "ID": "BbwBRjx//VKr38VigRl21dmAisg=",
@@ -139,6 +139,41 @@
       "X": "604",
       "Y": "980",
       "R": "40"
+    },
+    "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#0": {
+      "ID": "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#0",
+      "Name": "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#",
+      "X": "1292",
+      "Y": "1318",
+      "R": "110"
+    },
+    "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#1": {
+      "ID": "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#1",
+      "Name": "තුර්කිය ",
+      "X": "1629",
+      "Y": "1229",
+      "R": "80"
+    },
+    "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#0": {
+      "ID": "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#0",
+      "Name": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#",
+      "X": "58",
+      "Y": "1182",
+      "R": "30"
+    },
+    "#3kGHgDLRnOItztCzX6tPuImPX8g=#0": {
+      "ID": "#3kGHgDLRnOItztCzX6tPuImPX8g=#0",
+      "Name": "3kGHgDLRnOItztCzX6tPuImPX8g=#",
+      "X": "168",
+      "Y": "1229",
+      "R": "80"
+    },
+    "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#1": {
+      "ID": "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#1",
+      "Name": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#",
+      "X": "98",
+      "Y": "1089",
+      "R": "30"
     }
   },
   "Rivers": {}
