@@ -107,6 +107,29 @@
     width: 215px;
     border-radius: 3px;
 }
+.testItem-details-container {
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 5px;
+    padding: 6px;
+    padding-left: 15px;
+    color: #000;
+    margin-left: 225px;
+    min-height: 155px;
+    font-size:1.3rem !important;
+}
+
+.testItem-img {
+    background-color: transparent;
+    height: 155px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 225px;
+    float: left;
+    border-radius: 5px;
+}
 
 @media only screen and (max-width: 500px) {
 
@@ -133,6 +156,16 @@
     .mons-img {
         width: 140px;
         height: 98px;
+    }
+    .testItem-details-container {
+        font-size: 10px;
+        margin-left: 120px;
+        min-height: 115px;
+        padding-left: 6px;
+    }
+    .testItem-img {
+        width: 120px;
+        height: 115px;
     }
 }
 
@@ -531,4 +564,69 @@
     to {
         -moz-transform: translate(0, -0px);
     }
+}
+
+img {
+    max-width: 100%;
+}
+
+.slider-container {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.menu {
+    position: absolute;
+    left: 0;
+    z-index: 900;
+    width: 100%;
+    bottom: 0;
+}
+
+    .menu label {
+        cursor: pointer;
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        background: #fff;
+        border-radius: 50px;
+        margin: 0 .2em 1em;
+    }
+
+        .menu label:hover {
+            background: red;
+        }
+
+.slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    z-index: 10;
+    padding: 8em 1em 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    transition: left 0s .75s;
+}
+
+[id^="slide"]:checked + .slide {
+    left: 0;
+    z-index: 100;
+    transition: left .65s ease-out;
+}
+
+.slide-1 {
+    background-image: url(../img/img_bg_1.jpg);
+}
+
+.slide-2 {
+    background-image: url(../img/img_bg_2.jpg);
+}
+
+.slide-3 {
+    background-image: url(../img/img_bg_3.jpg);
 }
