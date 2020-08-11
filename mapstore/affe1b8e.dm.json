@@ -1,0 +1,97 @@
+{
+  "ID": "affe1b8e",
+  "Name": "ශ්‍රී ලංකාවේ පැරණි වෙළෙඳ නගර ",
+  "Description": "",
+  "Tag": [
+    "O/L",
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "/SyA8EJ961XRyh0V0orC\u002BHp5wqI=": {
+      "ID": "/SyA8EJ961XRyh0V0orC\u002BHp5wqI=",
+      "Name": "නක නගර ",
+      "X": "483",
+      "Y": "557",
+      "R": "30"
+    },
+    "uMcTOY3WpfP2mQHeISRBi05FUNk=": {
+      "ID": "uMcTOY3WpfP2mQHeISRBi05FUNk=",
+      "Name": "බම නගර  ",
+      "X": "218",
+      "Y": "719",
+      "R": "30"
+    },
+    "TCdnHg7VzrIVpMpDMD9BFZUfMCU=": {
+      "ID": "TCdnHg7VzrIVpMpDMD9BFZUfMCU=",
+      "Name": "අක නගර ",
+      "X": "201",
+      "Y": "749",
+      "R": "30"
+    },
+    "qR9heLNL6RGFQ6aHv859Xdt2JXo=": {
+      "ID": "qR9heLNL6RGFQ6aHv859Xdt2JXo=",
+      "Name": "තවකිරිය නගර ",
+      "X": "292",
+      "Y": "795",
+      "R": "30"
+    },
+    "oIUwr6eGimFL/0ywurXZxN9zf7Q=": {
+      "ID": "oIUwr6eGimFL/0ywurXZxN9zf7Q=",
+      "Name": "අබ නගර ",
+      "X": "387",
+      "Y": "823",
+      "R": "30"
+    },
+    "ZlTX5Yc0sa6qglTrUf9Vgmcqq58=": {
+      "ID": "ZlTX5Yc0sa6qglTrUf9Vgmcqq58=",
+      "Name": "පුබ නගර ",
+      "X": "395",
+      "Y": "901",
+      "R": "30"
+    },
+    "OWWeovRNmVwQNy1mX/uRtpaSA08=": {
+      "ID": "OWWeovRNmVwQNy1mX/uRtpaSA08=",
+      "Name": "නිලිය නගර ",
+      "X": "260",
+      "Y": "990",
+      "R": "30"
+    },
+    "T/Y0fjlkZvT54K0CMeLlKXFjH\u002B0=": {
+      "ID": "T/Y0fjlkZvT54K0CMeLlKXFjH\u002B0=",
+      "Name": "සිව නගර ",
+      "X": "354",
+      "Y": "1047",
+      "R": "30"
+    },
+    "0NhlSZ4om\u002BLV8lhPdqWE9j8U5HE=": {
+      "ID": "0NhlSZ4om\u002BLV8lhPdqWE9j8U5HE=",
+      "Name": "චිත නගර ",
+      "X": "496",
+      "Y": "1010",
+      "R": "30"
+    },
+    "Ymlyw3ShpnA7fMRkPBUtY0NBKXQ=": {
+      "ID": "Ymlyw3ShpnA7fMRkPBUtY0NBKXQ=",
+      "Name": "කබස නගර ",
+      "X": "602",
+      "Y": "807",
+      "R": "30"
+    },
+    "EJx2nbgzTY3BlQ68/WnOQBTHeLc=": {
+      "ID": "EJx2nbgzTY3BlQ68/WnOQBTHeLc=",
+      "Name": "උතිනගර ",
+      "X": "847",
+      "Y": "1276",
+      "R": "30"
+    },
+    "WpTQ9fUXbuASV6WEWDdNZbPRsdY=": {
+      "ID": "WpTQ9fUXbuASV6WEWDdNZbPRsdY=",
+      "Name": "දේව නගර ",
+      "X": "452",
+      "Y": "1523",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

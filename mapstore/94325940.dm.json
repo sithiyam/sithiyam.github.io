@@ -1,0 +1,97 @@
+{
+  "ID": "94325940",
+  "Name": "ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන -තුන්වන කාණ්ඩය ",
+  "Description": "",
+  "Tag": [
+    "O/L",
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "cM9QWIjBXAgpe64w\u002BaVEX8edp\u002Bk=": {
+      "ID": "cM9QWIjBXAgpe64w\u002BaVEX8edp\u002Bk=",
+      "Name": "හැමන්හෛල්  ",
+      "X": "144",
+      "Y": "110",
+      "R": "30"
+    },
+    "k3UgRbu86iscr5CZ4DP6AbFcLBM=": {
+      "ID": "k3UgRbu86iscr5CZ4DP6AbFcLBM=",
+      "Name": "ෆෙඩ්‍රික් කොටුව ",
+      "X": "666",
+      "Y": "532",
+      "R": "30"
+    },
+    "cdJfEqYAVBqnNsO9t2be5RIORz0=": {
+      "ID": "cdJfEqYAVBqnNsO9t2be5RIORz0=",
+      "Name": "වෙල්ලස්ස ",
+      "X": "706",
+      "Y": "1128",
+      "R": "30"
+    },
+    "0q91COsu360KL7sq3c1d5KB2kDc=": {
+      "ID": "0q91COsu360KL7sq3c1d5KB2kDc=",
+      "Name": "කුරුන්දි ",
+      "X": "461",
+      "Y": "257",
+      "R": "30"
+    },
+    "Ay4JczsD1N5EtsS1NFObqyvquc0=": {
+      "ID": "Ay4JczsD1N5EtsS1NFObqyvquc0=",
+      "Name": "පොම්පරිප්පු ",
+      "X": "166",
+      "Y": "612",
+      "R": "30"
+    },
+    "tYrxVj2bTehWFNiPcEvEIIvuetw=": {
+      "ID": "tYrxVj2bTehWFNiPcEvEIIvuetw=",
+      "Name": "මුන්නේශ්වරම ",
+      "X": "159",
+      "Y": "899",
+      "R": "30"
+    },
+    "ZRuETRAY\u002BiJscDBgIlM6x6Rlleg=": {
+      "ID": "ZRuETRAY\u002BiJscDBgIlM6x6Rlleg=",
+      "Name": "අලකොළවැව",
+      "X": "514",
+      "Y": "782",
+      "R": "30"
+    },
+    "CqkKcIwM5lfSReI/QWlGWCUSURk=": {
+      "ID": "CqkKcIwM5lfSReI/QWlGWCUSURk=",
+      "Name": "මුල්ලේරියාව ",
+      "X": "185",
+      "Y": "1152",
+      "R": "30"
+    },
+    "CcPOtC4TRbiZPJVHnsd2gEMV95s=": {
+      "ID": "CcPOtC4TRbiZPJVHnsd2gEMV95s=",
+      "Name": "හෝර්ටන් තැන්න ",
+      "X": "576",
+      "Y": "1199",
+      "R": "30"
+    },
+    "fVBccfmGzbo0Zr41raUk5aaQBwE=": {
+      "ID": "fVBccfmGzbo0Zr41raUk5aaQBwE=",
+      "Name": "දන්තුරේ ",
+      "X": "430",
+      "Y": "1013",
+      "R": "30"
+    },
+    "7SImFcPsHsrW9OJFJmDdXtsHiMU=": {
+      "ID": "7SImFcPsHsrW9OJFJmDdXtsHiMU=",
+      "Name": "වාලුකාගාම",
+      "X": "385",
+      "Y": "1504",
+      "R": "30"
+    },
+    "JhzJtFx/4k1e24pHs8NwHeHOBgM=": {
+      "ID": "JhzJtFx/4k1e24pHs8NwHeHOBgM=",
+      "Name": "මහානාගහුල",
+      "X": "575",
+      "Y": "1431",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

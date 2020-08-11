@@ -1,0 +1,131 @@
+{
+  "ID": "cc26d945",
+  "Name": "යුරෝපයේ මුහුදු ",
+  "Description": "",
+  "Tag": [
+    "O/L"
+  ],
+  "MapID": "europe",
+  "Markers": {
+    "x8hhk74uol9OKOHnh0yI/UWiZLI=": {
+      "ID": "x8hhk74uol9OKOHnh0yI/UWiZLI=",
+      "Name": "උතුරු මුහුද ",
+      "X": "578",
+      "Y": "589",
+      "R": "120"
+    },
+    "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#": {
+      "ID": "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#",
+      "Name": "බෝල්ටික් මුහුද ",
+      "X": "917",
+      "Y": "635",
+      "R": "50"
+    },
+    "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#0": {
+      "ID": "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#0",
+      "Name": "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#",
+      "X": "844",
+      "Y": "662",
+      "R": "50"
+    },
+    "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#1": {
+      "ID": "#H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#1",
+      "Name": "H9A4XG7RSZ2pqU2VlZoA2Z2h70o=#",
+      "X": "952",
+      "Y": "532",
+      "R": "40"
+    },
+    "utxR4AcySBgseQrE9Ukpfm09UO4=#": {
+      "ID": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "Name": "මධ්‍යධරණී මුහුද ",
+      "X": "477",
+      "Y": "1279",
+      "R": "70"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#0": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#0",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "320",
+      "Y": "1306",
+      "R": "70"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#1": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#1",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "714",
+      "Y": "1497",
+      "R": "70"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#2": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#2",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "879",
+      "Y": "1574",
+      "R": "100"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#3": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#3",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "1235",
+      "Y": "1513",
+      "R": "100"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#4": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#4",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "1032",
+      "Y": "1497",
+      "R": "100"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#5": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#5",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "645",
+      "Y": "1337",
+      "R": "70"
+    },
+    "xziUYXeYA7sUyeF1DnCwkYMYbvU=#": {
+      "ID": "xziUYXeYA7sUyeF1DnCwkYMYbvU=#",
+      "Name": "කළු මුහුද ",
+      "X": "1254",
+      "Y": "1126",
+      "R": "90"
+    },
+    "#xziUYXeYA7sUyeF1DnCwkYMYbvU=#0": {
+      "ID": "#xziUYXeYA7sUyeF1DnCwkYMYbvU=#0",
+      "Name": "xziUYXeYA7sUyeF1DnCwkYMYbvU=#",
+      "X": "1457",
+      "Y": "1107",
+      "R": "90"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#6": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#6",
+      "Name": "මධ්‍යධරණී මුහුද ",
+      "X": "886",
+      "Y": "1417",
+      "R": "80"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#7": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#7",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "517",
+      "Y": "1180",
+      "R": "50"
+    },
+    "#utxR4AcySBgseQrE9Ukpfm09UO4=#8": {
+      "ID": "#utxR4AcySBgseQrE9Ukpfm09UO4=#8",
+      "Name": "utxR4AcySBgseQrE9Ukpfm09UO4=#",
+      "X": "1406",
+      "Y": "1551",
+      "R": "60"
+    },
+    "#xziUYXeYA7sUyeF1DnCwkYMYbvU=#1": {
+      "ID": "#xziUYXeYA7sUyeF1DnCwkYMYbvU=#1",
+      "Name": "xziUYXeYA7sUyeF1DnCwkYMYbvU=#",
+      "X": "1549",
+      "Y": "1119",
+      "R": "60"
+    }
+  },
+  "Rivers": {}
+}

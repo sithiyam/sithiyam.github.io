@@ -1,0 +1,180 @@
+{
+  "ID": "28dd6002",
+  "Name": "යුරෝපයේ ප්‍රමුඛ රටවල් ",
+  "Description": "",
+  "Tag": [
+    "O/L"
+  ],
+  "MapID": "europe",
+  "Markers": {
+    "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#": {
+      "ID": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#",
+      "Name": "පෘතුගාලය ",
+      "X": "79",
+      "Y": "1135",
+      "R": "30"
+    },
+    "3kGHgDLRnOItztCzX6tPuImPX8g=#": {
+      "ID": "3kGHgDLRnOItztCzX6tPuImPX8g=#",
+      "Name": "ස්පාඤ්ඤ ",
+      "X": "251",
+      "Y": "1119",
+      "R": "80"
+    },
+    "5uLVfufITaCuqbVMk9mIpNK8QAM=": {
+      "ID": "5uLVfufITaCuqbVMk9mIpNK8QAM=",
+      "Name": "ප්‍රංශය ",
+      "X": "458",
+      "Y": "934",
+      "R": "100"
+    },
+    "HnEisokKZmaIjx\u002BkPplA7Km1Fyk=": {
+      "ID": "HnEisokKZmaIjx\u002BkPplA7Km1Fyk=",
+      "Name": "ජර්මනිය ",
+      "X": "707",
+      "Y": "789",
+      "R": "100"
+    },
+    "IzoPznQx0sRigf9GDb63UCQ3Czw=": {
+      "ID": "IzoPznQx0sRigf9GDb63UCQ3Czw=",
+      "Name": "පෝලන්තය ",
+      "X": "948",
+      "Y": "773",
+      "R": "100"
+    },
+    "u4g\u002B3uM5w5loD92H6l4Aez0h/BQ=": {
+      "ID": "u4g\u002B3uM5w5loD92H6l4Aez0h/BQ=",
+      "Name": "බ්‍රිතාන්‍ය ",
+      "X": "412",
+      "Y": "666",
+      "R": "100"
+    },
+    "edNkzEpqGQtjNvxs1WDpG1ZFmhg=": {
+      "ID": "edNkzEpqGQtjNvxs1WDpG1ZFmhg=",
+      "Name": "ඉතාලිය ",
+      "X": "691",
+      "Y": "1042",
+      "R": "50"
+    },
+    "DCIDKeltuQN0Ag0UwMAF7y4yueM=": {
+      "ID": "DCIDKeltuQN0Ag0UwMAF7y4yueM=",
+      "Name": "ග්‍රීසිය ",
+      "X": "1013",
+      "Y": "1294",
+      "R": "40"
+    },
+    "JJIFjnHPjLzrMkQxRzgYnZ6hgUE=": {
+      "ID": "JJIFjnHPjLzrMkQxRzgYnZ6hgUE=",
+      "Name": "බෙල්ජියම ",
+      "X": "542",
+      "Y": "800",
+      "R": "40"
+    },
+    "tZW40JSZUBpIOXxG5nTUqDaUH6s=": {
+      "ID": "tZW40JSZUBpIOXxG5nTUqDaUH6s=",
+      "Name": "ඕලන්දය ( නෙදර්ලන්තය )",
+      "X": "584",
+      "Y": "740",
+      "R": "40"
+    },
+    "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#": {
+      "ID": "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#",
+      "Name": "තුර්කිය ",
+      "X": "1453",
+      "Y": "1278",
+      "R": "110"
+    },
+    "jz1913WXpTB2lVQpaZR0hdha77w=": {
+      "ID": "jz1913WXpTB2lVQpaZR0hdha77w=",
+      "Name": "ඔස්ට්‍රියාව ",
+      "X": "802",
+      "Y": "944",
+      "R": "40"
+    },
+    "92Zy\u002BoGcs6SlxQ5U5YKiZgJUGfE=": {
+      "ID": "92Zy\u002BoGcs6SlxQ5U5YKiZgJUGfE=",
+      "Name": "නෝර්වේ ",
+      "X": "732",
+      "Y": "410",
+      "R": "40"
+    },
+    "ExG/z5HlsUvVToOhT37IOQobAwA=": {
+      "ID": "ExG/z5HlsUvVToOhT37IOQobAwA=",
+      "Name": "ස්වීඩනය  ",
+      "X": "841",
+      "Y": "446",
+      "R": "40"
+    },
+    "dIPbsmf5imxTQpOEzmd5T2ejPpc=": {
+      "ID": "dIPbsmf5imxTQpOEzmd5T2ejPpc=",
+      "Name": "ඩෙන්මාර්කය ",
+      "X": "722",
+      "Y": "592",
+      "R": "40"
+    },
+    "8CubFWB9z6yv2f\u002By5qWWMVsXFYw=": {
+      "ID": "8CubFWB9z6yv2f\u002By5qWWMVsXFYw=",
+      "Name": "බල්ගේරියාව ",
+      "X": "1093",
+      "Y": "1180",
+      "R": "40"
+    },
+    "rBYCufwRWeJKSGGGpX\u002BpKAePHdI=": {
+      "ID": "rBYCufwRWeJKSGGGpX\u002BpKAePHdI=",
+      "Name": "රුමේනියාව ",
+      "X": "1102",
+      "Y": "1039",
+      "R": "80"
+    },
+    "BbwBRjx//VKr38VigRl21dmAisg=": {
+      "ID": "BbwBRjx//VKr38VigRl21dmAisg=",
+      "Name": "හන්ගේරියාව ",
+      "X": "939",
+      "Y": "978",
+      "R": "40"
+    },
+    "ID\u002BD8P5EjIhwfGtEV2zrKgPe7gg=": {
+      "ID": "ID\u002BD8P5EjIhwfGtEV2zrKgPe7gg=",
+      "Name": "ස්විට්සර්ලන්තය",
+      "X": "604",
+      "Y": "980",
+      "R": "40"
+    },
+    "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#0": {
+      "ID": "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#0",
+      "Name": "f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#",
+      "X": "1292",
+      "Y": "1318",
+      "R": "110"
+    },
+    "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#1": {
+      "ID": "#f\u002BPpC3e00Wq3zoyvNcwQunF8jk0=#1",
+      "Name": "තුර්කිය ",
+      "X": "1629",
+      "Y": "1229",
+      "R": "80"
+    },
+    "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#0": {
+      "ID": "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#0",
+      "Name": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#",
+      "X": "58",
+      "Y": "1182",
+      "R": "30"
+    },
+    "#3kGHgDLRnOItztCzX6tPuImPX8g=#0": {
+      "ID": "#3kGHgDLRnOItztCzX6tPuImPX8g=#0",
+      "Name": "3kGHgDLRnOItztCzX6tPuImPX8g=#",
+      "X": "168",
+      "Y": "1229",
+      "R": "80"
+    },
+    "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#1": {
+      "ID": "#t6ikLAJjvZNAfjGMxq4/zTSg4aM=#1",
+      "Name": "t6ikLAJjvZNAfjGMxq4/zTSg4aM=#",
+      "X": "98",
+      "Y": "1089",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

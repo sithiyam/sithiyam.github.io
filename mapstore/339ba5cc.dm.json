@@ -1,0 +1,145 @@
+{
+  "ID": "339ba5cc",
+  "Name": "ලෝකයේ මුහුදු , බොකු හා සමුද්‍ර සන්ධි ",
+  "Description": "",
+  "Tag": [
+    "O/L"
+  ],
+  "MapID": "world",
+  "Markers": {
+    "o2aoHaj6o/3waUmkv3/o7EuFZ5s=#": {
+      "ID": "o2aoHaj6o/3waUmkv3/o7EuFZ5s=#",
+      "Name": "කැස්පියන් මුහුද ",
+      "X": "798",
+      "Y": "678",
+      "R": "30"
+    },
+    "#o2aoHaj6o/3waUmkv3/o7EuFZ5s=#0": {
+      "ID": "#o2aoHaj6o/3waUmkv3/o7EuFZ5s=#0",
+      "Name": "o2aoHaj6o/3waUmkv3/o7EuFZ5s=#",
+      "X": "813",
+      "Y": "760",
+      "R": "30"
+    },
+    "#o2aoHaj6o/3waUmkv3/o7EuFZ5s=#1": {
+      "ID": "#o2aoHaj6o/3waUmkv3/o7EuFZ5s=#1",
+      "Name": "o2aoHaj6o/3waUmkv3/o7EuFZ5s=#",
+      "X": "792",
+      "Y": "733",
+      "R": "30"
+    },
+    "pLdKOYxKwwI8aoENA/00yMKbL\u002BI=": {
+      "ID": "pLdKOYxKwwI8aoENA/00yMKbL\u002BI=",
+      "Name": "අරාබි මුහුද ",
+      "X": "1005",
+      "Y": "1032",
+      "R": "80"
+    },
+    "yp0Xx5o3h/DqF/yrQ4v6y1\u002Bs\u002B3E=": {
+      "ID": "yp0Xx5o3h/DqF/yrQ4v6y1\u002Bs\u002B3E=",
+      "Name": "කුණාටු තුඩුව /සුභ පැතුම් තුඩුව ",
+      "X": "480",
+      "Y": "1729",
+      "R": "30"
+    },
+    "1Az\u002BvVI/PQkubhsQvRXhfd85n28=": {
+      "ID": "1Az\u002BvVI/PQkubhsQvRXhfd85n28=",
+      "Name": "මලක්කා සමුද්‍ර සන්දිය ",
+      "X": "1429",
+      "Y": "1242",
+      "R": "30"
+    },
+    "PSZ13Te7TgOemfn5nqs5HTkaUmc=": {
+      "ID": "PSZ13Te7TgOemfn5nqs5HTkaUmc=",
+      "Name": "පෝක් සමුද්‍ර සන්ධිය ",
+      "X": "1176",
+      "Y": "1155",
+      "R": "30"
+    },
+    "jpquP5mNk2rMsPNVCSlaB3PTKjE=": {
+      "ID": "jpquP5mNk2rMsPNVCSlaB3PTKjE=",
+      "Name": "පර්සියන් බොක්ක ",
+      "X": "868",
+      "Y": "932",
+      "R": "30"
+    },
+    "Surr1IfHZBhoBzAtRumhSbIi0SY=": {
+      "ID": "Surr1IfHZBhoBzAtRumhSbIi0SY=",
+      "Name": "රතු මුහුද ",
+      "X": "700",
+      "Y": "1010",
+      "R": "30"
+    },
+    "#Surr1IfHZBhoBzAtRumhSbIi0SY=#0": {
+      "ID": "#Surr1IfHZBhoBzAtRumhSbIi0SY=#0",
+      "Name": "Surr1IfHZBhoBzAtRumhSbIi0SY=#",
+      "X": "680",
+      "Y": "958",
+      "R": "30"
+    },
+    "wjDqFUJgjGteWXburk0z28GrPic=#": {
+      "ID": "wjDqFUJgjGteWXburk0z28GrPic=#",
+      "Name": "මධ්‍යධරණී මුහුද ",
+      "X": "474",
+      "Y": "821",
+      "R": "40"
+    },
+    "VqGqfAg7x3ykaaZNlK80ly/kq5o=#": {
+      "ID": "VqGqfAg7x3ykaaZNlK80ly/kq5o=#",
+      "Name": "උතුරු මුහුද ",
+      "X": "303",
+      "Y": "521",
+      "R": "40"
+    },
+    "#VqGqfAg7x3ykaaZNlK80ly/kq5o=#0": {
+      "ID": "#VqGqfAg7x3ykaaZNlK80ly/kq5o=#0",
+      "Name": "VqGqfAg7x3ykaaZNlK80ly/kq5o=#",
+      "X": "316",
+      "Y": "553",
+      "R": "40"
+    },
+    "#wjDqFUJgjGteWXburk0z28GrPic=#0": {
+      "ID": "#wjDqFUJgjGteWXburk0z28GrPic=#0",
+      "Name": "wjDqFUJgjGteWXburk0z28GrPic=#",
+      "X": "333",
+      "Y": "756",
+      "R": "30"
+    },
+    "HeL82pvAWc2AV57LLhdONb5smpM=": {
+      "ID": "HeL82pvAWc2AV57LLhdONb5smpM=",
+      "Name": "බෙංගාල බොක්ක ",
+      "X": "1284",
+      "Y": "1007",
+      "R": "30"
+    },
+    "#wjDqFUJgjGteWXburk0z28GrPic=#1": {
+      "ID": "#wjDqFUJgjGteWXburk0z28GrPic=#1",
+      "Name": "wjDqFUJgjGteWXburk0z28GrPic=#",
+      "X": "415",
+      "Y": "816",
+      "R": "30"
+    },
+    "#wjDqFUJgjGteWXburk0z28GrPic=#2": {
+      "ID": "#wjDqFUJgjGteWXburk0z28GrPic=#2",
+      "Name": "wjDqFUJgjGteWXburk0z28GrPic=#",
+      "X": "553",
+      "Y": "828",
+      "R": "30"
+    },
+    "#wjDqFUJgjGteWXburk0z28GrPic=#3": {
+      "ID": "#wjDqFUJgjGteWXburk0z28GrPic=#3",
+      "Name": "wjDqFUJgjGteWXburk0z28GrPic=#",
+      "X": "603",
+      "Y": "826",
+      "R": "30"
+    },
+    "#Surr1IfHZBhoBzAtRumhSbIi0SY=#1": {
+      "ID": "#Surr1IfHZBhoBzAtRumhSbIi0SY=#1",
+      "Name": "Surr1IfHZBhoBzAtRumhSbIi0SY=#",
+      "X": "731",
+      "Y": "1062",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

@@ -1,0 +1,194 @@
+{
+  "ID": "7c3c46e0",
+  "Name": "ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන.",
+  "Description": "උසස් පෙළ සඳහා උචිත වේ. ",
+  "Tag": [
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "0DuCjhnmhuaIF5h6c499Zj6I\u002BKA=": {
+      "ID": "0DuCjhnmhuaIF5h6c499Zj6I\u002BKA=",
+      "Name": "පාචීනාරාම ",
+      "X": "222",
+      "Y": "71",
+      "R": "30"
+    },
+    "EsNmGh\u002BjAHQQ1ZRopTmiOoTd9Oc=": {
+      "ID": "EsNmGh\u002BjAHQQ1ZRopTmiOoTd9Oc=",
+      "Name": "පණ්ඩු විජයගාම",
+      "X": "592",
+      "Y": "555",
+      "R": "30"
+    },
+    "q\u002BTh65YIRDCtVe5DjYzFMqan2XE=": {
+      "ID": "q\u002BTh65YIRDCtVe5DjYzFMqan2XE=",
+      "Name": "සේරි නගර ",
+      "X": "687",
+      "Y": "589",
+      "R": "30"
+    },
+    "TqaFbZa33FMLEfNtGbGGFMg7fCk=": {
+      "ID": "TqaFbZa33FMLEfNtGbGGFMg7fCk=",
+      "Name": "මණ්ඩලගිරි",
+      "X": "592",
+      "Y": "672",
+      "R": "30"
+    },
+    "LaU4J\u002BtA8cPmezcHRcbWcRVIfhg=": {
+      "ID": "LaU4J\u002BtA8cPmezcHRcbWcRVIfhg=",
+      "Name": "මණිහිරක",
+      "X": "560",
+      "Y": "742",
+      "R": "30"
+    },
+    "agnURSRSPbddbvspBnHvyilqIR8=": {
+      "ID": "agnURSRSPbddbvspBnHvyilqIR8=",
+      "Name": "බුද්ධගාම",
+      "X": "487",
+      "Y": "762",
+      "R": "30"
+    },
+    "O/SQieIlBWHxumK6Pf0feLcKR7o=": {
+      "ID": "O/SQieIlBWHxumK6Pf0feLcKR7o=",
+      "Name": "මහාගෝඨ පිට්ඨි",
+      "X": "721",
+      "Y": "987",
+      "R": "30"
+    },
+    "cKAjBW3Y/G5Oq0vVc9JNPHV26yg=": {
+      "ID": "cKAjBW3Y/G5Oq0vVc9JNPHV26yg=",
+      "Name": "නාලන්ද ",
+      "X": "472",
+      "Y": "848",
+      "R": "30"
+    },
+    "eBapxM0mgz8hxsjq\u002BQgU\u002BLrxqxM=": {
+      "ID": "eBapxM0mgz8hxsjq\u002BQgU\u002BLrxqxM=",
+      "Name": "නීල ගම ",
+      "X": "425",
+      "Y": "809",
+      "R": "30"
+    },
+    "syW2xCPjhibEc2tylvKGwtCCYiw=": {
+      "ID": "syW2xCPjhibEc2tylvKGwtCCYiw=",
+      "Name": "දිඹුලාගල ",
+      "X": "587",
+      "Y": "815",
+      "R": "30"
+    },
+    "IcMpuq\u002BV09TPpsu9yapNhrSa3cY=": {
+      "ID": "IcMpuq\u002BV09TPpsu9yapNhrSa3cY=",
+      "Name": "කසාපබ්බත ",
+      "X": "402",
+      "Y": "670",
+      "R": "30"
+    },
+    "xEoSXB94Vv9SuYUcwM\u002Bx/CeRX8I=": {
+      "ID": "xEoSXB94Vv9SuYUcwM\u002Bx/CeRX8I=",
+      "Name": "අරිට්ඨ ගිරි ",
+      "X": "439",
+      "Y": "700",
+      "R": "30"
+    },
+    "eVSIXlOe1r/N8HJ2MDy4vUhIty0=": {
+      "ID": "eVSIXlOe1r/N8HJ2MDy4vUhIty0=",
+      "Name": "දීපචන්දන ",
+      "X": "631",
+      "Y": "1051",
+      "R": "30"
+    },
+    "5KguZ04skaa3IdQh5TRmU7mbCfs=": {
+      "ID": "5KguZ04skaa3IdQh5TRmU7mbCfs=",
+      "Name": "අමර ගිරි ",
+      "X": "837",
+      "Y": "1120",
+      "R": "30"
+    },
+    "pTTXfksAgJ/4bE30dDh9lCFwUp0=": {
+      "ID": "pTTXfksAgJ/4bE30dDh9lCFwUp0=",
+      "Name": "පුප්පුකගාම ",
+      "X": "664",
+      "Y": "1316",
+      "R": "30"
+    },
+    "b8SKqdMivGywjkP65TRjc3cfsvU=": {
+      "ID": "b8SKqdMivGywjkP65TRjc3cfsvU=",
+      "Name": "චෝරම්හගාම ",
+      "X": "628",
+      "Y": "1260",
+      "R": "30"
+    },
+    "UKIqK8eVT\u002BpUL0IdYXAfmCZBnlA=": {
+      "ID": "UKIqK8eVT\u002BpUL0IdYXAfmCZBnlA=",
+      "Name": "වල්ලිගාම ",
+      "X": "375",
+      "Y": "1507",
+      "R": "30"
+    },
+    "UQaZU\u002Bydu4l2PfK6SZSPT\u002BExg44=": {
+      "ID": "UQaZU\u002Bydu4l2PfK6SZSPT\u002BExg44=",
+      "Name": "මඩුත්ථාලි",
+      "X": "414",
+      "Y": "1382",
+      "R": "30"
+    },
+    "y6s9/u7HY/aqrfdiPAIz2sDxYlo=": {
+      "ID": "y6s9/u7HY/aqrfdiPAIz2sDxYlo=",
+      "Name": "හරිපාසාණ",
+      "X": "435",
+      "Y": "1275",
+      "R": "30"
+    },
+    "BKuYEF3sFlr/ZOaHLCwG25Mvlpw=": {
+      "ID": "BKuYEF3sFlr/ZOaHLCwG25Mvlpw=",
+      "Name": "උද්වනද්වාර ",
+      "X": "670",
+      "Y": "1182",
+      "R": "30"
+    },
+    "kyY8TMmDTU6mp9QxCcUemz8J6K8=": {
+      "ID": "kyY8TMmDTU6mp9QxCcUemz8J6K8=",
+      "Name": "වාකිරිගල ",
+      "X": "427",
+      "Y": "1044",
+      "R": "30"
+    },
+    "FJV6JDDT3q7B3rgF1cTzkOhbJYA=": {
+      "ID": "FJV6JDDT3q7B3rgF1cTzkOhbJYA=",
+      "Name": "පණ්ඩවාපි",
+      "X": "193",
+      "Y": "908",
+      "R": "30"
+    },
+    "cERpcjiLVk1tXYSPuCVANaarddQ=": {
+      "ID": "cERpcjiLVk1tXYSPuCVANaarddQ=",
+      "Name": "මහානාමමත්ථක ",
+      "X": "215",
+      "Y": "424",
+      "R": "30"
+    },
+    "j3MxO0r2pbbgZ2NC9zXVydslSUM=": {
+      "ID": "j3MxO0r2pbbgZ2NC9zXVydslSUM=",
+      "Name": "පාත්තපාසාණ ",
+      "X": "372",
+      "Y": "624",
+      "R": "30"
+    },
+    "YzZt6VTZyLSjojMROwX1vl\u002BLfms=": {
+      "ID": "YzZt6VTZyLSjojMROwX1vl\u002BLfms=",
+      "Name": "කදලිගාම",
+      "X": "400",
+      "Y": "1120",
+      "R": "30"
+    },
+    "O3DsGeOiZns\u002BS4\u002BOXUpjm0ZBavk=": {
+      "ID": "O3DsGeOiZns\u002BS4\u002BOXUpjm0ZBavk=",
+      "Name": "මහානිගම",
+      "X": "256",
+      "Y": "1181",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

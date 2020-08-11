@@ -1,0 +1,104 @@
+{
+  "ID": "c8819ff0",
+  "Name": "ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන -පළමු කාණ්ඩය ",
+  "Description": "",
+  "Tag": [
+    "O/L",
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "UMqGKfltCI0fDWrnwQGaAdIvONo=": {
+      "ID": "UMqGKfltCI0fDWrnwQGaAdIvONo=",
+      "Name": "කදුරු ගොඩ (කන්තරෝඩය )",
+      "X": "189",
+      "Y": "84",
+      "R": "30"
+    },
+    "okEigrR6Cc52bPsj9SmfKHR5Wq4=": {
+      "ID": "okEigrR6Cc52bPsj9SmfKHR5Wq4=",
+      "Name": "තන්තිරිමලේ ",
+      "X": "294",
+      "Y": "523",
+      "R": "30"
+    },
+    "yNoZ0I\u002BC/Rwb8gS0o/BMmhdDrkY=": {
+      "ID": "yNoZ0I\u002BC/Rwb8gS0o/BMmhdDrkY=",
+      "Name": "මහියංගනය ",
+      "X": "599",
+      "Y": "1007",
+      "R": "30"
+    },
+    "tvgn3ENmexySv3M7RFJk/h40F00=": {
+      "ID": "tvgn3ENmexySv3M7RFJk/h40F00=",
+      "Name": "කසාතොට ",
+      "X": "610",
+      "Y": "778",
+      "R": "30"
+    },
+    "RLwKLzSrkwFG9VnjezmlSNWnwZU=": {
+      "ID": "RLwKLzSrkwFG9VnjezmlSNWnwZU=",
+      "Name": "දෙවිනුවර( දෙවුන්දර,දේව නගර )",
+      "X": "453",
+      "Y": "1527",
+      "R": "30"
+    },
+    "i830fJ7iRT/3ubTBUodPhaniRi4=": {
+      "ID": "i830fJ7iRT/3ubTBUodPhaniRi4=",
+      "Name": "තිරියාය ",
+      "X": "582",
+      "Y": "398",
+      "R": "30"
+    },
+    "nWhZhfVoUicrAEjciL1N5fgBNQ0=": {
+      "ID": "nWhZhfVoUicrAEjciL1N5fgBNQ0=",
+      "Name": "ගුත්තහාලක ",
+      "X": "641",
+      "Y": "1188",
+      "R": "30"
+    },
+    "qbk2HcdVSDfEPHz/VDTWp8M80zM=": {
+      "ID": "qbk2HcdVSDfEPHz/VDTWp8M80zM=",
+      "Name": "කාචරගාම ",
+      "X": "712",
+      "Y": "1317",
+      "R": "30"
+    },
+    "S4Q3etkg/gNVrCY2w06tfz\u002B5pBs=": {
+      "ID": "S4Q3etkg/gNVrCY2w06tfz\u002B5pBs=",
+      "Name": "චිත්තල පබ්බත ",
+      "X": "729",
+      "Y": "1352",
+      "R": "30"
+    },
+    "AcKXWqGIIoZvP\u002BkKQ2Gv/LWMbGo=": {
+      "ID": "AcKXWqGIIoZvP\u002BkKQ2Gv/LWMbGo=",
+      "Name": "කැලණිය ",
+      "X": "179",
+      "Y": "1129",
+      "R": "30"
+    },
+    "3FFV/vbjHE05GxkJ0XL408cMSRk=": {
+      "ID": "3FFV/vbjHE05GxkJ0XL408cMSRk=",
+      "Name": "කුදිරමලේ ",
+      "X": "167",
+      "Y": "544",
+      "R": "30"
+    },
+    "5WDFpgCCeB5U9SibxBCRC6BIBJo=": {
+      "ID": "5WDFpgCCeB5U9SibxBCRC6BIBJo=",
+      "Name": "පඬුවස්නුවර ",
+      "X": "225",
+      "Y": "914",
+      "R": "30"
+    },
+    "QO1oX3gvFLf\u002BVTHGxLXQMrxokYY=": {
+      "ID": "QO1oX3gvFLf\u002BVTHGxLXQMrxokYY=",
+      "Name": "මාතලේ (අළු විහාරය)  ",
+      "X": "437",
+      "Y": "932",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

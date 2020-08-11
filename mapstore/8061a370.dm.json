@@ -1,0 +1,271 @@
+{
+  "ID": "8061a370",
+  "Name": "ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන - පළමු කාණ්ඩය",
+  "Description": "උසස් පෙළ සඳහා පමණක් උචිත වේ .",
+  "Tag": [
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "Ll5yWq6Z2A247dyejTsMGW\u002BDYjw=": {
+      "ID": "Ll5yWq6Z2A247dyejTsMGW\u002BDYjw=",
+      "Name": "පියංගුදීප ",
+      "X": "137",
+      "Y": "150",
+      "R": "30"
+    },
+    "occcdRQ/e5zv4ZZ0vo7dlVtDcW8=": {
+      "ID": "occcdRQ/e5zv4ZZ0vo7dlVtDcW8=",
+      "Name": "බලන ",
+      "X": "426",
+      "Y": "1008",
+      "R": "30"
+    },
+    "Rfe6uu9rzSjFgTt1SHLLgHMp31g=": {
+      "ID": "Rfe6uu9rzSjFgTt1SHLLgHMp31g=",
+      "Name": "දැඩිගම ",
+      "X": "256",
+      "Y": "1030",
+      "R": "30"
+    },
+    "xEo4\u002BSXnd3uSDdh6eg0PFOZ\u002BFYE=": {
+      "ID": "xEo4\u002BSXnd3uSDdh6eg0PFOZ\u002BFYE=",
+      "Name": "පරාක්‍රම පුර ",
+      "X": "228",
+      "Y": "910",
+      "R": "30"
+    },
+    "9L1vr19jZb8Cg8I7itBeDrAGi\u002Bs=": {
+      "ID": "9L1vr19jZb8Cg8I7itBeDrAGi\u002Bs=",
+      "Name": "දඹුල්ල ",
+      "X": "447",
+      "Y": "767",
+      "R": "30"
+    },
+    "IUNNnEvl03V6KOvMfliz/TivoKU=": {
+      "ID": "IUNNnEvl03V6KOvMfliz/TivoKU=",
+      "Name": "හඟුරන්කෙත ",
+      "X": "515",
+      "Y": "1056",
+      "R": "30"
+    },
+    "W8At3bzLwCVMsQWuoqwH327UffQ=": {
+      "ID": "W8At3bzLwCVMsQWuoqwH327UffQ=",
+      "Name": "පලුට්ඨ ගිරි ",
+      "X": "711",
+      "Y": "1368",
+      "R": "30"
+    },
+    "PFes5no3Lj\u002Batt0i8TR4SekHFpc=": {
+      "ID": "PFes5no3Lj\u002Batt0i8TR4SekHFpc=",
+      "Name": "නාග පබ්බත ",
+      "X": "845",
+      "Y": "1238",
+      "R": "30"
+    },
+    "Ji4fkl8JPK1rxCr6pZ/NJEEPHOg=": {
+      "ID": "Ji4fkl8JPK1rxCr6pZ/NJEEPHOg=",
+      "Name": "සගම ",
+      "X": "869",
+      "Y": "1037",
+      "R": "30"
+    },
+    "fK3OYs5jg23jbqutKgWoMm5BouM=": {
+      "ID": "fK3OYs5jg23jbqutKgWoMm5BouM=",
+      "Name": "ගොවින්ද පබ්බත ",
+      "X": "841",
+      "Y": "1102",
+      "R": "30"
+    },
+    "GfMw8LbMRbe8X1e4ffDQo0cYMWI=": {
+      "ID": "GfMw8LbMRbe8X1e4ffDQo0cYMWI=",
+      "Name": "කණ්ඨක ද්වාර ",
+      "X": "705",
+      "Y": "1137",
+      "R": "30"
+    },
+    "Nz7CPQBUDcElanSXyT1z9sywSmU=": {
+      "ID": "Nz7CPQBUDcElanSXyT1z9sywSmU=",
+      "Name": "පාලින්ද නගර ",
+      "X": "372",
+      "Y": "1226",
+      "R": "30"
+    },
+    "VUd9DJkWhFzt0Tt7esJ4Ts085lU=": {
+      "ID": "VUd9DJkWhFzt0Tt7esJ4Ts085lU=",
+      "Name": "පලාබත්ගල ",
+      "X": "411",
+      "Y": "1174",
+      "R": "30"
+    },
+    "DUKWlhTFsc4c0YjJAEQxKGM/LGQ=": {
+      "ID": "DUKWlhTFsc4c0YjJAEQxKGM/LGQ=",
+      "Name": "කාළගිරි ",
+      "X": "377",
+      "Y": "1309",
+      "R": "30"
+    },
+    "S5IeG9bBAELhn0bIDxhZJWlBYh0=": {
+      "ID": "S5IeG9bBAELhn0bIDxhZJWlBYh0=",
+      "Name": "මහාපලාන ",
+      "X": "420",
+      "Y": "1442",
+      "R": "30"
+    },
+    "vgBp2QMvu/c6VvT98pT\u002BBJC1GJk=": {
+      "ID": "vgBp2QMvu/c6VvT98pT\u002BBJC1GJk=",
+      "Name": "කම්මාර ගම ",
+      "X": "398",
+      "Y": "1510",
+      "R": "30"
+    },
+    "w72ThruBDc2pala/h/4LH\u002B\u002BNVqk=": {
+      "ID": "w72ThruBDc2pala/h/4LH\u002B\u002BNVqk=",
+      "Name": "මහානිගම ",
+      "X": "250",
+      "Y": "1181",
+      "R": "30"
+    },
+    "pgwsUXB62lyZ8/RwLG0R4EIhUoY=": {
+      "ID": "pgwsUXB62lyZ8/RwLG0R4EIhUoY=",
+      "Name": "දෙවනගල ",
+      "X": "350",
+      "Y": "1064",
+      "R": "30"
+    },
+    "U4X3Dtls1Xa/LQonM67TLQ6tpfw=": {
+      "ID": "U4X3Dtls1Xa/LQonM67TLQ6tpfw=",
+      "Name": "කොට්ඨසාර  ",
+      "X": "696",
+      "Y": "547",
+      "R": "30"
+    },
+    "396C\u002BqUxZJTido9HkuZ/zhnizxw=": {
+      "ID": "396C\u002BqUxZJTido9HkuZ/zhnizxw=",
+      "Name": "තම්බපිට්ඨි",
+      "X": "656",
+      "Y": "582",
+      "R": "30"
+    },
+    "Cv6FBgi64tS0KtthKQJnR7DTpIM=": {
+      "ID": "Cv6FBgi64tS0KtthKQJnR7DTpIM=",
+      "Name": "වේලගාම  ",
+      "X": "643",
+      "Y": "498",
+      "R": "30"
+    },
+    "QPaFWzg47DFh9rYMcGxSN8X0Xow=": {
+      "ID": "QPaFWzg47DFh9rYMcGxSN8X0Xow=",
+      "Name": "එරාවුළුරට",
+      "X": "790",
+      "Y": "766",
+      "R": "30"
+    },
+    "nCV511cxStoY7QTGkDjiLB9cguc=": {
+      "ID": "nCV511cxStoY7QTGkDjiLB9cguc=",
+      "Name": "ගිවුලබගම ",
+      "X": "757",
+      "Y": "833",
+      "R": "30"
+    },
+    "xEIhounnBopDaRgurnRKTi6wndQ=": {
+      "ID": "xEIhounnBopDaRgurnRKTi6wndQ=",
+      "Name": "හිහෝඹු",
+      "X": "822",
+      "Y": "888",
+      "R": "30"
+    },
+    "b\u002BwojiC3ah\u002BqNdmzGWz5h4panlc=": {
+      "ID": "b\u002BwojiC3ah\u002BqNdmzGWz5h4panlc=",
+      "Name": "ලංකා පබ්බත ",
+      "X": "563",
+      "Y": "978",
+      "R": "30"
+    },
+    "PJgTetSLlD4YjQrC3ls8604yWmg=": {
+      "ID": "PJgTetSLlD4YjQrC3ls8604yWmg=",
+      "Name": "සහස්ස තිත්ත ",
+      "X": "598",
+      "Y": "799",
+      "R": "30"
+    },
+    "z9Cdmnhe1YvnYfjaZeLaYjl7ZvQ=": {
+      "ID": "z9Cdmnhe1YvnYfjaZeLaYjl7ZvQ=",
+      "Name": "මහේල නගර ",
+      "X": "442",
+      "Y": "676",
+      "R": "30"
+    },
+    "TGu\u002BQoplsBYkYkzKzjNz\u002BSeO7eg=": {
+      "ID": "TGu\u002BQoplsBYkYkzKzjNz\u002BSeO7eg=",
+      "Name": "ද්වාර මණ්ඩල ",
+      "X": "420",
+      "Y": "632",
+      "R": "30"
+    },
+    "jvzCi/RBF2yaZxRz8Y1okkgyWwU=": {
+      "ID": "jvzCi/RBF2yaZxRz8Y1okkgyWwU=",
+      "Name": "පදිගාම",
+      "X": "499",
+      "Y": "363",
+      "R": "30"
+    },
+    "jtA3PpxvilNqIaIiZSJc33I\u002BilA=": {
+      "ID": "jtA3PpxvilNqIaIiZSJc33I\u002BilA=",
+      "Name": "කාර දීප ",
+      "X": "147",
+      "Y": "88",
+      "R": "30"
+    },
+    "Yd7\u002BbGEpIxmxN3Gdc5Zr7ebjufc=": {
+      "ID": "Yd7\u002BbGEpIxmxN3Gdc5Zr7ebjufc=",
+      "Name": "වැල්වැටි තුරෙයි ",
+      "X": "252",
+      "Y": "65",
+      "R": "30"
+    },
+    "U3INNyMNHJ15aS1UXlXuDyklHpw=": {
+      "ID": "U3INNyMNHJ15aS1UXlXuDyklHpw=",
+      "Name": "මීපාතොට ",
+      "X": "232",
+      "Y": "322",
+      "R": "30"
+    },
+    "BsFSLW\u002BXW/lHqv1kcLWR18y3PSg=": {
+      "ID": "BsFSLW\u002BXW/lHqv1kcLWR18y3PSg=",
+      "Name": "මොරවාපි ගාම",
+      "X": "190",
+      "Y": "741",
+      "R": "30"
+    },
+    "btxclGrOmIMW1Zo8D66QQIZ9wR0=": {
+      "ID": "btxclGrOmIMW1Zo8D66QQIZ9wR0=",
+      "Name": "තම්බරට්ට",
+      "X": "174",
+      "Y": "694",
+      "R": "30"
+    },
+    "O1fwcSAGqZPCz/yUtFcYP4mFZR8=": {
+      "ID": "O1fwcSAGqZPCz/yUtFcYP4mFZR8=",
+      "Name": "මහාගල්ලක ",
+      "X": "284",
+      "Y": "878",
+      "R": "30"
+    },
+    "fnnaKUeZmpI3tbpRdvRRqSNoWeM=": {
+      "ID": "fnnaKUeZmpI3tbpRdvRRqSNoWeM=",
+      "Name": "බීර ගාම",
+      "X": "599",
+      "Y": "1204",
+      "R": "30"
+    },
+    "7tmI9c2XNqR7cOaFoPOuIjjRFCo=": {
+      "ID": "7tmI9c2XNqR7cOaFoPOuIjjRFCo=",
+      "Name": "මණිනාග පබ්බත ",
+      "X": "863",
+      "Y": "1188",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

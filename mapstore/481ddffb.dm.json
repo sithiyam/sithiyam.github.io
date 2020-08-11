@@ -1,0 +1,83 @@
+{
+  "ID": "481ddffb",
+  "Name": "පැරණි රාජධානි අගනගර ",
+  "Description": "",
+  "Tag": [
+    "O/L",
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "jP3DxuRgSBUrx/UX0tL2i1XPg\u002Bg=": {
+      "ID": "jP3DxuRgSBUrx/UX0tL2i1XPg\u002Bg=",
+      "Name": "අනුරාධපුරය ",
+      "X": "345",
+      "Y": "613",
+      "R": "30"
+    },
+    "8Xi0agf6ncnij1IPO3OYrBLYL1w=": {
+      "ID": "8Xi0agf6ncnij1IPO3OYrBLYL1w=",
+      "Name": "පොළොන්නරුව ",
+      "X": "589",
+      "Y": "756",
+      "R": "30"
+    },
+    "b3qvD\u002Bj056e3yTJdHUUzlO1VAE0=": {
+      "ID": "b3qvD\u002Bj056e3yTJdHUUzlO1VAE0=",
+      "Name": "යාපහුව (සුබපබ්බත)",
+      "X": "311",
+      "Y": "824",
+      "R": "30"
+    },
+    "JLdUNVSUxYLs842RgFyTn8BJuZg=": {
+      "ID": "JLdUNVSUxYLs842RgFyTn8BJuZg=",
+      "Name": "දඹදෙණිය ",
+      "X": "253",
+      "Y": "980",
+      "R": "30"
+    },
+    "y7DRgxLmGYm4g86NznVearULLL8=": {
+      "ID": "y7DRgxLmGYm4g86NznVearULLL8=",
+      "Name": "කුරුණෑගල ",
+      "X": "342",
+      "Y": "923",
+      "R": "30"
+    },
+    "nXhDs8h38ZtsKbBZr3JAdZLYmhw=": {
+      "ID": "nXhDs8h38ZtsKbBZr3JAdZLYmhw=",
+      "Name": "කෝට්ටේ ",
+      "X": "172",
+      "Y": "1151",
+      "R": "30"
+    },
+    "VPgoKv39VEpLTtF\u002BWT2I0UpBwVU=": {
+      "ID": "VPgoKv39VEpLTtF\u002BWT2I0UpBwVU=",
+      "Name": "රයිගම ",
+      "X": "222",
+      "Y": "1246",
+      "R": "30"
+    },
+    "BFN0ajPj6\u002BkO69WwdrifltQwDDo=": {
+      "ID": "BFN0ajPj6\u002BkO69WwdrifltQwDDo=",
+      "Name": "සීතාවක ",
+      "X": "282",
+      "Y": "1159",
+      "R": "30"
+    },
+    "NqS\u002BOkn\u002Bk7GYkntzMzqzl/nCqEs=": {
+      "ID": "NqS\u002BOkn\u002Bk7GYkntzMzqzl/nCqEs=",
+      "Name": "මහනුවර (සෙංකඩගල) ",
+      "X": "447",
+      "Y": "1009",
+      "R": "30"
+    },
+    "gMo64/CSCpQLex8FJ8D92iiUAvo=": {
+      "ID": "gMo64/CSCpQLex8FJ8D92iiUAvo=",
+      "Name": "ගම්පොළ (ගඟසිරි පුර )",
+      "X": "422",
+      "Y": "1058",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

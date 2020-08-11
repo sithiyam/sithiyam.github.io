@@ -1,0 +1,75 @@
+{
+  "ID": "b7161bd5",
+  "Name": "ආර්ය ජනාවාස ",
+  "Description": "",
+  "Tag": [
+    "A/L"
+  ],
+  "MapID": "sl-rivers",
+  "Markers": {
+    "4ukFPbqKoVZoQwMhHxTf30eR7vY=": {
+      "ID": "4ukFPbqKoVZoQwMhHxTf30eR7vY=",
+      "Name": "අනුරාධගාම ",
+      "X": "344",
+      "Y": "619",
+      "R": "30"
+    },
+    "xNsvUOFHRBBMLF\u002BRIaAu3uYc4Zo=": {
+      "ID": "xNsvUOFHRBBMLF\u002BRIaAu3uYc4Zo=",
+      "Name": "උරුවේල ",
+      "X": "167",
+      "Y": "609",
+      "R": "30"
+    },
+    "gWqYCIQuM\u002BmUZDnrs94m1WqWjUU=": {
+      "ID": "gWqYCIQuM\u002BmUZDnrs94m1WqWjUU=",
+      "Name": "විජිත  ගාම ",
+      "X": "539",
+      "Y": "664",
+      "R": "30"
+    },
+    "wzMgRfthDLQyWPsO/jjSkSij4Sg=": {
+      "ID": "wzMgRfthDLQyWPsO/jjSkSij4Sg=",
+      "Name": "රාම ගෝණ",
+      "X": "647",
+      "Y": "575",
+      "R": "30"
+    },
+    "mIKaQANp0Nqgvbw8x4/gQHwHiuE=": {
+      "ID": "mIKaQANp0Nqgvbw8x4/gQHwHiuE=",
+      "Name": "උපතිස්සගාම",
+      "X": "304",
+      "Y": "501",
+      "R": "30"
+    },
+    "rE17AgP6xZS0XIUh\u002BzYDJC2AVl0=": {
+      "ID": "rE17AgP6xZS0XIUh\u002BzYDJC2AVl0=",
+      "Name": "කල්‍යාණි ගාම",
+      "X": "181",
+      "Y": "1130",
+      "R": "30"
+    },
+    "DbPW9xbnPNGZoBGsfhMUM2055yU=": {
+      "ID": "DbPW9xbnPNGZoBGsfhMUM2055yU=",
+      "Name": "රෝහණ ගාම",
+      "X": "781",
+      "Y": "1276",
+      "R": "30"
+    },
+    "8FUYeDnHOfrBpazANajftK2v2ac=": {
+      "ID": "8FUYeDnHOfrBpazANajftK2v2ac=",
+      "Name": "දීඝ ගාම ",
+      "X": "877",
+      "Y": "1020",
+      "R": "30"
+    },
+    "\u002BDlmxs\u002B1aMIxiciwn1aIeKkNN50=": {
+      "ID": "\u002BDlmxs\u002B1aMIxiciwn1aIeKkNN50=",
+      "Name": "තම්මැන්නාව ",
+      "X": "163",
+      "Y": "555",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}

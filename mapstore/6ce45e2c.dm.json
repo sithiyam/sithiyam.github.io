@@ -1,0 +1,62 @@
+{
+  "ID": "6ce45e2c",
+  "Name": "යුරෝපයේ ඓතිහාසික ස්ථාන -පළමු කාණ්ඩය  ",
+  "Description": "",
+  "Tag": [
+    "O/L",
+    "A/L"
+  ],
+  "MapID": "europe",
+  "Markers": {
+    "q0g/8u47caJ8IHeG6Lv4JaRTLHw=": {
+      "ID": "q0g/8u47caJ8IHeG6Lv4JaRTLHw=",
+      "Name": "ජිනෝවා ",
+      "X": "631",
+      "Y": "1065",
+      "R": "30"
+    },
+    "b4TTrya3urM3z/UPudNUPE8XBCU=": {
+      "ID": "b4TTrya3urM3z/UPudNUPE8XBCU=",
+      "Name": "ලිස්බන් ",
+      "X": "45",
+      "Y": "1128",
+      "R": "30"
+    },
+    "RcTia5EguqRngdQuJEqfksIsWIM=": {
+      "ID": "RcTia5EguqRngdQuJEqfksIsWIM=",
+      "Name": "ලන්ඩන් ",
+      "X": "438",
+      "Y": "733",
+      "R": "30"
+    },
+    "Myz17c9pyxv2MBu44/qY9Bal/yU=": {
+      "ID": "Myz17c9pyxv2MBu44/qY9Bal/yU=",
+      "Name": "බර්ලින් ",
+      "X": "791",
+      "Y": "759",
+      "R": "30"
+    },
+    "Dc54DijKKk/dJqShjV3fwc8L06U=": {
+      "ID": "Dc54DijKKk/dJqShjV3fwc8L06U=",
+      "Name": "රෝමය /වතිකානුව ",
+      "X": "735",
+      "Y": "1198",
+      "R": "30"
+    },
+    "nRJg4MhZ6RZhq2TktFDxaEUS3B0=": {
+      "ID": "nRJg4MhZ6RZhq2TktFDxaEUS3B0=",
+      "Name": "පැරිස් ",
+      "X": "469",
+      "Y": "884",
+      "R": "30"
+    },
+    "UPJMhFzwLg2b1XeIzyYN6XuVaPE=": {
+      "ID": "UPJMhFzwLg2b1XeIzyYN6XuVaPE=",
+      "Name": "කොන්ස්තන්තිනෝපල්",
+      "X": "1214",
+      "Y": "1206",
+      "R": "30"
+    }
+  },
+  "Rivers": {}
+}
