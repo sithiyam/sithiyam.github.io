@@ -349,7 +349,7 @@
       "url": "Terms.html"
     },
     {
-      "hash": "sha256-DOri+2ONOHPNRQGSLnCuvJ7l9cSGpaFAZd9LKPRqNhA=",
+      "hash": "sha256-ks4x643pvzzPf9wayvdnw2kECcjfqXgNEeY+NZEOdIw=",
       "url": "_framework\/_bin\/Vidusaviya.Maps.dll"
     },
     {
@@ -557,7 +557,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-gETSseC3dIBdMmVdiUENRSEnq+zf9bhNUjkFty3lxVI=",
+      "hash": "sha256-1aUgMhK9qcIGR7xZZXd0lgB9RZ\/Wx7Tz1hf6RWH7a6c=",
       "url": "_framework\/_bin\/Vidusaviya.Maps.pdb"
     },
     {
@@ -577,7 +577,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-+IjcMgqJafcg7+5cOxQOCafN6Y\/swnVh2DutcJWqU0s=",
+      "hash": "sha256-lc+li\/iEjWqCR3iQRVXy4QcCMcy2siGEPV862ulmT1I=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
